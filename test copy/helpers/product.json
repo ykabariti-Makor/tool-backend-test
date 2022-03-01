@@ -1,0 +1,292 @@
+[
+  {
+    "product_id": "1",
+    "ws_access": 1,
+    "decimals_quantity": 4,
+    "decimals_price": 4,
+    "product_name": "BTC-EUR",
+    "trading": "electronic & otc",
+    "min_quantity": 0.001,
+    "max_quantity": 20
+  },
+  {
+    "product_id": "2",
+    "ws_access": 1,
+    "decimals_quantity": 8,
+    "decimals_price": 8,
+    "product_name": "BTC-USD",
+    "trading": "electronic & otc",
+    "min_quantity": 0.0001,
+    "max_quantity": 30
+  },
+  {
+    "product_id": "5",
+    "ws_access": 1,
+    "decimals_quantity": 4,
+    "decimals_price": 4,
+    "product_name": "LTC-USD",
+    "trading": "electronic & otc",
+    "min_quantity": 0.1,
+    "max_quantity": 2000
+  },
+  {
+    "product_id": "7",
+    "ws_access": 1,
+    "decimals_quantity": 4,
+    "decimals_price": 4,
+    "product_name": "ETH-EUR",
+    "trading": "electronic & otc",
+    "min_quantity": 0.01,
+    "max_quantity": 250
+  },
+  {
+    "product_id": "8",
+    "ws_access": 1,
+    "decimals_quantity": 4,
+    "decimals_price": 4,
+    "product_name": "ETH-USD",
+    "trading": "electronic & otc",
+    "min_quantity": 0.005,
+    "max_quantity": 750
+  },
+  {
+    "product_id": "11",
+    "ws_access": 1,
+    "decimals_quantity": 4,
+    "decimals_price": 4,
+    "product_name": "XRP-USD",
+    "trading": "electronic & otc",
+    "min_quantity": 20,
+    "max_quantity": 50000
+  },
+  {
+    "product_id": "14",
+    "ws_access": 1,
+    "decimals_quantity": 4,
+    "decimals_price": 4,
+    "product_name": "BCH-USD",
+    "trading": "electronic & otc",
+    "min_quantity": 0.01,
+    "max_quantity": 300
+  },
+  {
+    "product_id": "16",
+    "ws_access": 1,
+    "decimals_quantity": 4,
+    "decimals_price": 4,
+    "product_name": "BTC-GBP",
+    "trading": "electronic & otc",
+    "min_quantity": 0.001,
+    "max_quantity": 20
+  },
+  {
+    "product_id": "22",
+    "ws_access": 1,
+    "decimals_quantity": 4,
+    "decimals_price": 4,
+    "product_name": "EOS-USD",
+    "trading": "electronic & otc",
+    "min_quantity": 1,
+    "max_quantity": 30000
+  },
+  {
+    "product_id": "25",
+    "ws_access": 1,
+    "decimals_quantity": 4,
+    "decimals_price": 4,
+    "product_name": "BTC-USDT",
+    "trading": "electronic & otc",
+    "min_quantity": 0.001,
+    "max_quantity": 20
+  },
+  {
+    "product_id": "26",
+    "ws_access": 1,
+    "decimals_quantity": 4,
+    "decimals_price": 4,
+    "product_name": "USDT-USD",
+    "trading": "electronic & otc",
+    "min_quantity": 1,
+    "max_quantity": 100000
+  },
+  {
+    "product_id": "29",
+    "ws_access": 1,
+    "decimals_quantity": 4,
+    "decimals_price": 4,
+    "product_name": "BTC-USDC",
+    "trading": "electronic & otc",
+    "min_quantity": 0.01,
+    "max_quantity": 20
+  },
+  {
+    "product_id": "39",
+    "ws_access": 1,
+    "decimals_quantity": 4,
+    "decimals_price": 4,
+    "product_name": "ETH-USDT",
+    "trading": "electronic & otc",
+    "min_quantity": 0.005,
+    "max_quantity": 750
+  },
+  {
+    "product_id": "60",
+    "ws_access": 0,
+    "decimals_quantity": 4,
+    "decimals_price": 8,
+    "product_name": "ADA-USD",
+    "trading": "electronic & otc",
+    "min_quantity": 0.1,
+    "max_quantity": 10000
+  },
+  {
+    "product_id": "69",
+    "ws_access": 1,
+    "decimals_quantity": 8,
+    "decimals_price": 4,
+    "product_name": "BAT-USD",
+    "trading": "electronic & otc",
+    "min_quantity": 1,
+    "max_quantity": 50000
+  },
+  {
+    "product_id": "90",
+    "ws_access": 1,
+    "decimals_quantity": 8,
+    "decimals_price": 4,
+    "product_name": "YFI-USD",
+    "trading": "electronic & otc",
+    "min_quantity": 0.0005,
+    "max_quantity": 10
+  },
+  {
+    "product_id": "91",
+    "ws_access": 1,
+    "decimals_quantity": 8,
+    "decimals_price": 4,
+    "product_name": "SUSHI-USD",
+    "trading": "electronic & otc",
+    "min_quantity": 4,
+    "max_quantity": 25000
+  },
+  {
+    "product_id": "92",
+    "ws_access": 0,
+    "decimals_quantity": 8,
+    "decimals_price": 4,
+    "product_name": "MATIC-USD",
+    "trading": "electronic & otc",
+    "min_quantity": 10,
+    "max_quantity": 150000
+  },
+  {
+    "product_id": "93",
+    "ws_access": 0,
+    "decimals_quantity": 8,
+    "decimals_price": 8,
+    "product_name": "AAVE-USD",
+    "trading": "electronic & otc",
+    "min_quantity": 0.01,
+    "max_quantity": 50000
+  },
+  {
+    "product_id": "94",
+    "ws_access": 1,
+    "decimals_quantity": 4,
+    "decimals_price": 8,
+    "product_name": "LINK-USD",
+    "trading": "electronic & otc",
+    "min_quantity": 0.1,
+    "max_quantity": 20000
+  },
+  {
+    "product_id": "101",
+    "ws_access": 1,
+    "decimals_quantity": 8,
+    "decimals_price": 4,
+    "product_name": "ENJ-USD",
+    "trading": "electronic & otc",
+    "min_quantity": 1,
+    "max_quantity": 20000
+  },
+  {
+    "product_id": "102",
+    "ws_access": 1,
+    "decimals_quantity": 8,
+    "decimals_price": 4,
+    "product_name": "CRV-USD",
+    "trading": "electronic & otc",
+    "min_quantity": 1,
+    "max_quantity": 100000
+  },
+  {
+    "product_id": "103",
+    "ws_access": 1,
+    "decimals_quantity": 8,
+    "decimals_price": 8,
+    "product_name": "MANA-USD",
+    "trading": "electronic & otc",
+    "min_quantity": 10,
+    "max_quantity": 50000
+  },
+  {
+    "product_id": "109",
+    "ws_access": 1,
+    "decimals_quantity": 8,
+    "decimals_price": 8,
+    "product_name": "COMP-USD",
+    "trading": "electronic & otc",
+    "min_quantity": 0.001,
+    "max_quantity": 1000
+  },
+  {
+    "product_id": "110",
+    "ws_access": 1,
+    "decimals_quantity": 8,
+    "decimals_price": 8,
+    "product_name": "UNI-USD",
+    "trading": "electronic & otc",
+    "min_quantity": 0.1,
+    "max_quantity": 5000
+  },
+  {
+    "product_id": "115",
+    "ws_access": 1,
+    "decimals_quantity": 4,
+    "decimals_price": 4,
+    "product_name": "ALGO-USD",
+    "trading": "electronic & otc",
+    "min_quantity": 10,
+    "max_quantity": 200
+  },
+  {
+    "product_id": "119",
+    "ws_access": 1,
+    "decimals_quantity": 8,
+    "decimals_price": 8,
+    "product_name": "SOL-USD",
+    "trading": "electronic & otc",
+    "min_quantity": 0.1,
+    "max_quantity": 100
+  },
+  {
+    "product_id": "121",
+    "ws_access": 1,
+    "decimals_quantity": 8,
+    "decimals_price": 8,
+    "product_name": "AXS-USD",
+    "trading": "electronic & otc",
+    "min_quantity": 0.1,
+    "max_quantity": 1000
+  },
+  {
+    "product_id": "122",
+    "ws_access": 1,
+    "decimals_quantity": 8,
+    "decimals_price": 8,
+    "product_name": "MKR-USD",
+    "trading": "electronic & otc",
+    "min_quantity": 0.01,
+    "max_quantity": 100
+  }
+]
