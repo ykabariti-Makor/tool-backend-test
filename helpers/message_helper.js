@@ -52,7 +52,7 @@ const handle_message = async (ws, message) => {
                 clients[ws.id] = clients[ws.id] ? [...clients[ws.id], worker] : [worker]
               }
             } else if (req.power === false) {
-              if (clients[ws.id].length) {
+              if (clients[ws.id]) {
                 clients[ws.id].forEach((worker) => {
                   worker.terminate()
                 })
