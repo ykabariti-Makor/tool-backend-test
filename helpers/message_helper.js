@@ -22,7 +22,8 @@ const handle_message = async (ws, message) => {
 
               worker.on('message', (data) => {
                 const newData = JSON.parse(data)
-                newData.data.location = req.location
+                console.log(req.server.name)
+                newData.data.location = req.server.name
                 ws.send(JSON.stringify(newData))
               })
               clients[ws.id] = worker
@@ -46,7 +47,7 @@ const handle_message = async (ws, message) => {
                 worker.on('message', (data) => {
                   const newData = JSON.parse(data)
                   newData.data.thread = i
-                  newData.data.location = req.location
+                  newData.data.location = req.server.name
                   ws.send(JSON.stringify(newData))
                 })
                 clients[ws.id] = clients[ws.id] ? [...clients[ws.id], worker] : [worker]
